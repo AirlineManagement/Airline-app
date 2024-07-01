@@ -1,5 +1,5 @@
 # AirlineManagement
-This repository contains the frontend code for our Airline Management App, providing a user-friendly interface for managing airline operations, as well as backend code, supporting airline operations.
+This repository contains the frontend code for our Airline Management App, providing a user-friendly interface for managing airline operations, as well as the backend code, supporting airline operations.
 
 ## Features
 
