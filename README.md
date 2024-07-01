@@ -8,4 +8,3 @@ This repository contains the frontend code for our Airline Management App, provi
 - *Booking System*: Reserve seats, manage bookings
 - *Payment Integration*: Secure transactions
 - *Notifications*: Receive booking alerts.
-- 
